@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET / HTTP/1.1" 200 911 http-bio-8088-exec-1 44
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /inline.bundle.js HTTP/1.1" 200 6050 http-bio-8088-exec-3 3
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /polyfills.bundle.js HTTP/1.1" 200 203976 http-bio-8088-exec-4 4
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /main.bundle.js HTTP/1.1" 200 75294 http-bio-8088-exec-7 5
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /styles.bundle.js HTTP/1.1" 200 468850 http-bio-8088-exec-5 6
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /scripts.bundle.js HTTP/1.1" 200 808166 http-bio-8088-exec-2 12
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:20 +0800] "GET /vendor.bundle.js HTTP/1.1" 200 2657749 http-bio-8088-exec-6 17
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:21 +0800] "GET /assets/logo.png HTTP/1.1" 200 66849 http-bio-8088-exec-6 3
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:21 +0800] "GET /glyphicons-halflings-regular.448c34a56d699c29117a.woff2 HTTP/1.1" 200 18028 http-bio-8088-exec-6 18
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:27:21 +0800] "GET /favicon.ico HTTP/1.1" 200 38078 http-bio-8088-exec-6 3
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:28:12 +0800] "GET //rest/users/register?username=123&password=123 HTTP/1.1" 500 6673 http-bio-8088-exec-1 30049
+0:0:0:0:0:0:0:1 - - [28/Dec/2022:17:28:31 +0800] "GET /rest/users/login?username=123&password=123 HTTP/1.1" 500 6666 http-bio-8088-exec-3 30016
